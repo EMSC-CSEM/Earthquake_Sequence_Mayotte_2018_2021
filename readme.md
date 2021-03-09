@@ -3,8 +3,8 @@
 
 ## Introduction
 
-Since May 13th, 2018, a serie of shallow (between 10 and 30 km depth) earthquakes have been recorded near the Mayotte Island with magnitudes up to 5.8.
-This sequence is interesting to study the impact of earthquakes on a society without seismological culture. This dataset contains the earthquake collected by the European-Mediterranean Seismological Centre  (EMSC) through its contributors with the number of felt reports collected from eyewitnesses via the LastQuake mobile application and EMSC's web sites. The main interest of this dataset is the association of seismological data with reports from the population.
+Since May 13th, 2018, a serie of shallow (less than 30 km depth) earthquakes have been recorded near the Mayotte Island with magnitudes up to 5.8.
+The interest in studying this sequence lies in the possibility to attain a better understanding of the impacts that earthquakes have on a society where a seismological culture has not been fully developed. This dataset contains the earthquake collected by the European-Mediterranean Seismological Centre  (EMSC) through its contributors with the number of felt reports collected from eyewitnesses via the LastQuake mobile application and EMSC's web sites. The main interest of this dataset is the association of seismological data with reports from the population.
 
 
 ## Data Collection
