@@ -1,5 +1,5 @@
 
-# Earthquake sequence in Mayotte between May 10th 2018 and December 2019
+# Earthquake sequence in Mayotte between May 10th 2018 and April 2021
 
 ## Introduction
 
@@ -9,7 +9,7 @@ The interest in studying this sequence lies in the possibility to attain a bette
 
 ## Data Collection
 
-The earthquake data regroups data collected by the EMSC between May 10th, 2018 and the end of December 2019 in the region delemited by longitudes between 42 and 48 and latitudes between -16 and -10. Contributors of the EMSC are composed of more than 80 national seismic instituts which send their data in real time. During this period, the among of contributors for earthquakes in the Mayotte region has evolved in time. At the begining of the crisis, the EMSC has received data only from global networks that only detect earthquakes with magnitude greater than 4 in this region. Then the BRGM has provided more complete data and it was then possible to add smaller seismic events that were felt by the population. Finally, in 2019, earthquake information in Mayotte were available on the RENASS website and the EMSC began to access the complete catalogue of the seismicity near Mayotte.
+The earthquake data regroups data collected by the EMSC between May 10th, 2018 and the end of April 2021 in the region delemited by longitudes between 42 and 48 and latitudes between -16 and -10. Contributors of the EMSC are composed of more than 80 national seismic instituts which send their data in real time. During this period, the among of contributors for earthquakes in the Mayotte region has evolved in time. At the begining of the crisis, the EMSC has received data only from global networks that only detect earthquakes with magnitude greater than 4 in this region. Then the BRGM has provided more complete data and it was then possible to add smaller seismic events that were felt by the population. Finally, in 2019, earthquake information in Mayotte were available on the RENASS website and the EMSC began to access the complete catalogue of the seismicity near Mayotte.
 
 Moreover this seismic crisis has been widely felt by the population and the EMSC has collected a lot of reports. This dataset contains also the total number of felt reports associated to each earthquake.
 
